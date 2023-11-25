@@ -1,0 +1,9 @@
+"To modify the dummy data,
+ navigate to the 'Data' folder,
+  select a file, and replace the existing
+   text with your preferred content. 
+   Additionally, you can include your PDF 
+   in the 'public' folder, naming it 'Adisa-Taiwo-Joshua'. 
+   To launch this application, start by executing 'npm install' 
+   followed by 'npm run dev.' Click on the provided link to access 
+   the application on your localhost."
